@@ -17,7 +17,7 @@ Criar uma interface voltada ao público gamer, reunindo seções relacionadas a 
 - **Comunidades:** área relacionada às comunidades gamer.
 - **Conta:** seção destinada à área do usuário.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 *HTML5
 CSS3
